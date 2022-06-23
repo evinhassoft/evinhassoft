@@ -1,7 +1,7 @@
 ### Olá, eu sou o Gabriel Evaristo! 👏
 
 - 🔭 Atualmente estou buscando emprego na área de front-end;
-- 🌱 Estou cursando Engenharia de Software na Universidade de Brasília (quarto semestre);
+- 🌱 Estou cursando Engenharia de Software na Universidade de Brasília (terceiro semestre);
 - 👯 Estou estudando, no momento, HTML5, CSS e Javascript;
 - 🤔 Linguagens que tenho domínio: C, C++;
 - 💬 Fale comigo no e-mail: gabrielevaristo300@gmail.com;
