@@ -1,6 +1,6 @@
 ### Olá, eu sou o Gabriel Evaristo! 👏
 
-- 🔭 Atualmente estou buscando emprego na área de front-end;
+- 🔭 Atualmente trabalhando como Desenvolvedor Júnior na Ibranutro;
 - 🌱 Estou cursando Engenharia de Software na Universidade de Brasília (quinto semestre);
 - 👯 Estou estudando, no momento, HTML5, CSS e Javascript;
 - 🤔 Linguagens que tenho domínio: C, C++;
